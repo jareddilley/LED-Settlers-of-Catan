@@ -11,6 +11,8 @@ Attached is the Fusion 360 so the models can be edited directly and used to bett
 # Board Generation
 ![image](https://github.com/jareddilley/SMART-Catan-game-board/blob/main/Media/catan-board-gen-demo.gif)
 
+When the board is powered on the tiles are randomly set up in an instant. I know some people like to play an evenly distributed board, but it can be added as a feature in the second version. The instant setup of the board was the main issue I wanted to fix with this project. Whenever you want to play a game of Catan it always takes time to set up the board. Here it can be set up instantly with the flick of a switch.
+
 # Info Display
 ![image](https://github.com/jareddilley/SMART-Catan-game-board/blob/main/Media/catan-info-display-demo.gif)
 
