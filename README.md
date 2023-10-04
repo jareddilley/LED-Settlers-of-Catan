@@ -16,7 +16,7 @@ When the board is powered on the tiles are randomly set up in an instant. I know
 # Info Display
 ![image](https://github.com/jareddilley/SMART-Catan-game-board/blob/main/Media/catan-info-display-demo.gif)
 
-
+With the Arduino micro powering the board I figured I would add additional info that can be tracked on displays. In the middle of the board lies the power center that doubles as the desert tile. Here you can find a seven-segment display that serves as a remembrance for what was previously rolled to the next player. In V2 this could also serve as a time for those who take too long on their turn. In addition, there sits an OLED display that stores the number of rolls that each resource has been rolled. This can help judge the board for what resources might be in short supply and makes for cool stats to look at, at the end of the game. 
 
 ![image](https://github.com/jareddilley/SMART-Catan-game-board/blob/main/Media/displays.png)
 
