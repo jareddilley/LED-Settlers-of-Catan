@@ -9,12 +9,16 @@ Attached is the Fusion 360 so the models can be edited directly and used to bett
 ![image](https://github.com/jareddilley/SMART-Catan-game-board/blob/main/Media/3D-Breakdown.JPG)
 
 # Board Generation
-![image](https://github.com/jareddilley/SMART-Catan-game-board/blob/main/Media/catan-dice-roll-demo.gif)
+![image](https://github.com/jareddilley/SMART-Catan-game-board/blob/main/Media/catan-board-gen-demo.gif)
 
 # Info Display
-![image](https://github.com/jareddilley/SMART-Catan-game-board/blob/main/Media/catan-dice-roll-demo.gif)
+![image](https://github.com/jareddilley/SMART-Catan-game-board/blob/main/Media/catan-info-display-demo.gif)
+
+
+
+![image](https://github.com/jareddilley/SMART-Catan-game-board/blob/main/Media/displays.png)
 
 # Bonus
-![image](https://github.com/jareddilley/SMART-Catan-game-board/blob/main/Media/catan-dice-roll-demo.gif)
+![image](https://github.com/jareddilley/SMART-Catan-game-board/blob/main/Media/night.png)
 
-The light up hexagons make a game night in the dark that mnuch cooler.
+The light-up hexagons make a game night in the dark that much cooler.
