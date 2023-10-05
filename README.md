@@ -6,7 +6,12 @@ Fully 3D printed 2-4 person Catan board with corresponding LED tiles, electronic
 Built with the Open Source mindset allowing other people to build it at home with a 3D printer (I used an Ender 3 Pro) with a choice of soldier or using a breadboard. 
 
 Attached is the Fusion 360 so the models can be edited directly and used to better understand how it is broken down. A YouTube link for visual learners: https://www.youtube.com/watch?v=NJuYirOUeOg&t=12s&ab_channel=JaredDilley
+
 ![image](https://github.com/jareddilley/SMART-Catan-game-board/blob/main/Media/3D-Breakdown.JPG)
+
+Below is the full Arduino schematic for anyone trying to build the project. For those who want a closer look, the diagram can be found in the Fritzing Schematic folder. If there are any confusions feel free to ask in the discussion.
+
+![image](https://github.com/jareddilley/SMART-Catan-game-board/blob/main/Media/catan-schematic.PNG)
 
 # Board Generation
 ![image](https://github.com/jareddilley/SMART-Catan-game-board/blob/main/Media/catan-board-gen-demo.gif)
